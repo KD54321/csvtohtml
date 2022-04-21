@@ -1,10 +1,5 @@
 
-/**
- * Name and ID: Kevin Duong 40209877 & Paul Touma 40210678
- * COMP249
- * Assignment 3
- * Due Date: March 25th 2022
- */
+
 import java.util.Scanner;
 import java.io.PrintWriter;
 import java.io.FileInputStream;
